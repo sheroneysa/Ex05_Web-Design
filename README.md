@@ -83,7 +83,8 @@ E-Mail ID: sheroneysa@gmail.com
 ```
 
 ## OUTPUT
-![Screenshot (12)](https://github.com/sheroneysa/Ex05_Web-Design/assets/167157047/bbb8e3ef-5ad0-4a98-af7c-aace7cc19f82)
+![Screenshot (13)](https://github.com/sheroneysa/Ex05_Web-Design/assets/167157047/e366fd1a-0e1d-4c69-ab9f-a7349fe5f34b)
+
 
 
 ## RESULT
